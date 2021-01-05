@@ -203,15 +203,34 @@ echo "<pre>";
 // echo $i . "<br>";
 // echo $j;
 
-function demSo($nhapvao)
-{
-    if ($nhapvao % 2 == 0) {
-        echo "$nhapvao :la so chan <br>";
-    }
-    else{
-        echo "$nhapvao :la so le <br>";
-    }
-};
-demSo(25);
-demSo(33);
-demSo(22);
+
+// hàm trong php
+// function demSo($nhapvao)
+// {
+//     if ($nhapvao % 2 == 0) {
+//         echo "$nhapvao :la so chan <br>";
+//     }
+//     else{
+//         echo "$nhapvao :la so le <br>";
+//     }
+// };
+// demSo(25);
+// demSo(33);
+// demSo(22);
+
+
+// $a = 11;
+// if (kiemTraSoTran($a)) {
+//     echo 'so chan';
+// }else{
+//     echo 'so le';
+// }
+// function kiemTraSoTran($a){
+//     if($a % 2 == 0){
+//         return true;
+//     }
+//     else{
+//         return false;
+//     }
+// }
+
