@@ -234,3 +234,26 @@ echo "<pre>";
 //     }
 // }
 
+// function tinhTong($a,$b,$c){
+//     $tong = $a + $b + $c;
+//     return $tong;
+// }
+// $tong = tinhTong(12,13,15);
+// echo $tong;
+
+// $cars = array("BMV","Mes","Lexus");
+
+// switch ($cars[2]) {
+//     case 'BMV':
+//         echo "ở đây có bán BMV";
+//         break;
+//     case 'Mes':
+//         echo "ở đây có bán Mes";
+//         break;
+//     case 'Lexus':
+//         echo "ở đây có bán Lexus";
+//         break;
+//     default:
+//         echo "không bán loại này";
+//         break;
+// }
