@@ -254,6 +254,4 @@ echo "<pre>";
 //         echo "ở đây có bán Lexus";
 //         break;
 //     default:
-//         echo "không bán loại này";
-//         break;
-// }
+//         echo "không bán loại này"; 
